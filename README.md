@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Rassul Nassyrov 👋
 
-<!--
-**nssr-rsl/nssr-rsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Software Engineer | Backend & Web3 Developer
 
-Here are some ideas to get you started:
+I specialize in building high-performance backend systems, microservice architectures, and secure Web3 / blockchain solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-------------
+
+### 🛠️ Tech Stack & Skills
+
+- **Languages:** Python, JavaScript / TypeScript, Solidity, SQL
+- **Backend & Frameworks:** FastAPI, Django, REST APIs, Asyncio, WebSockets
+- **Blockchain & Web3:** Ethers.js, Viem, Web3.py, Foundry, Hardhat, Smart Contracts (EVM)
+- **Databases & Caching:** PostgreSQL, Redis, SQLite
+- **DevOps & Tools:** Docker, Git, Linux, Postman
+
+-------------
+
+### 📬 Connect with Me
+
+- **Telegram:** @nssrsl
+- **Email:** nssrassul@icloud.com
+
+---
+
+⚡ *Focused on clean architecture, optimized smart contracts, and reliable backend infrastructure.*
